@@ -17,4 +17,4 @@ My first repository
 *Seasons:* 3
 
 
-> A short quote or description.
+> A short quote or description..
